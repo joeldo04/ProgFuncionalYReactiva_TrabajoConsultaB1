@@ -1,8 +1,7 @@
-# Programacion Funcinal y Reactiva 
-## Trabajo de Consulta:  Higher Order Functions 
+# Programación Funcional y Reactiva
+## Trabajo de Consulta: Higher Order Functions
 
 ### Objetivos
-
 - Aplicar los conocimientos sobre funciones de orden superior
 - Enviar una función como parámetro
 
@@ -28,7 +27,7 @@ I = ∫₃⁵ (-x² + 8x - 12)dx ≅ 7.33
 
 ---
 
-### Implementación
+###  Implementación
 
 #### 1. Función `integracion`
 
@@ -42,19 +41,68 @@ Crear una función que utilice el método de Simpson para calcular el valor apro
 
 Usar la función `integracion` para aproximar las siguientes integrales definidas:
 
-1. `∫₃⁵ (-x² + 8x - 12)dx ≅ 7.33`
+**Integral 1:**
+```
+f(x) = -x² + 8x - 12
+Límites: a = 3, b = 5
+Valor esperado: 7.33
 
-2. `∫₀² 3x²dx ≅ 8`
+I = ∫₃⁵ (-x² + 8x - 12)dx ≅ 7.33
+```
 
-3. `∫₋₁¹ (x + 2x² - x³ + 5x⁴)dx ≅ 3.333`
+**Integral 2:**
+```
+f(x) = 3x²
+Límites: a = 0, b = 2
+Valor esperado: 8
 
-4. `∫₁² (2x + 1)/(x² + x)dx ≅ 1.09861`
+I = ∫₀² 3x²dx ≅ 8
+```
 
-5. `∫₀¹ eˣdx ≅ 1.71828`
+**Integral 3:**
+```
+f(x) = x + 2x² - x³ + 5x⁴
+Límites: a = -1, b = 1
+Valor esperado: 3.333
 
-6. `∫₂³ 1/(x - 1)dx ≅ 0.828427`
+I = ∫₋₁¹ (x + 2x² - x³ + 5x⁴)dx ≅ 3.333
+```
 
-7. `∫₀¹ 1/(1 + x²)dx ≅ 0.785398`
+**Integral 4:**
+```
+f(x) = (2x + 1) / (x² + x)
+Límites: a = 1, b = 2
+Valor esperado: 1.09861
+
+I = ∫₁² (2x + 1)/(x² + x)dx ≅ 1.09861
+```
+
+**Integral 5:**
+```
+f(x) = eˣ
+Límites: a = 0, b = 1
+Valor esperado: 1.71828
+
+I = ∫₀¹ eˣdx ≅ 1.71828
+```
+
+**Integral 6:**
+```
+f(x) = 1 / (x - 1)
+Límites: a = 2, b = 3
+Valor esperado: 0.828427
+
+I = ∫₂³ 1/(x - 1)dx ≅ 0.828427
+```
+
+**Integral 7:**
+```
+f(x) = 1 / (1 + x²)
+Límites: a = 0, b = 1
+Valor esperado: 0.785398
+
+I = ∫₀¹ 1/(1 + x²)dx ≅ 0.785398
+```
 
 #### 3. Cálculo del error
 
@@ -64,4 +112,17 @@ Elaborar una función que calcule el error de cada aproximación mediante:
 Error = |valorEsperado - valorObtenido|
 ```
 
+
+### Uso
+
+```
+// Ejemplo de uso
+resultado = integracion(f, a, b)
+error = calcularError(valorEsperado, resultado)
+```
+
 ---
+
+### Documentación
+
+La documentación completa del proyecto se encuentra en: 
