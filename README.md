@@ -28,7 +28,7 @@ I = ∫₃⁵ (-x² + 8x - 12)dx ≅ 7.33
 
 ---
 
-### 🛠️ Implementación
+### Implementación
 
 #### 1. Función `integracion`
 
