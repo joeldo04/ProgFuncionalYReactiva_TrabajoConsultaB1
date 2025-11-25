@@ -2,8 +2,8 @@
 ## Trabajo de Consulta: Higher Order Functions
 ---
 
-
-Estudiante: Joel Domiínguez Ochoa
+** Docente: ** Ing. Jorge Jorge A. López Vargas
+ **Estudiante: ** Joel Domínguez Ochoa
 
 ---
 ### Objetivos
