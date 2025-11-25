@@ -2,12 +2,9 @@
 ## Trabajo de Consulta: Higher Order Functions
 ---
 
-**Carrera:** Ciencias de la Computación
-
-**Docente:** Ing. Jorge A. López Vargas
-
-**Estudiante:** Joel Domínguez Ochoa
-
+**Carrera:** Ciencias de la Computación  
+**Docente:** Ing. Jorge A. López Vargas  
+**Estudiante:** Joel Domínguez Ochoa  
 **Período Académico:** Octubre 2025 - Febrero 2026
 
 ---
