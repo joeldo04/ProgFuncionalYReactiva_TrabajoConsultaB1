@@ -1,6 +1,11 @@
 # Programación Funcional y Reactiva
 ## Trabajo de Consulta: Higher Order Functions
+---
 
+
+Estudiante: Joel Domiínguez Ochoa
+
+---
 ### Objetivos
 - Aplicar los conocimientos sobre funciones de orden superior
 - Enviar una función como parámetro
