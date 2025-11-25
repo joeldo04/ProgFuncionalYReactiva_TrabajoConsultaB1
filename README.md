@@ -3,11 +3,8 @@
 ---
 
 **Carrera:**  Ciencias de la Computación  
-
 **Docente:** Jorge A. López Vargas 
-
 **Estudiante:** Joel Domínguez Ochoa 
-
 **Periodo Académico:** Octubre/2025 - Febrero/2026
 
 ---
