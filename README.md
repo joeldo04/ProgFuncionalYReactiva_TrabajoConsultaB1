@@ -95,4 +95,4 @@ Error = |valorEsperado - valorObtenido|
 
 ### Documentación
 
-La documentación completa del proyecto se encuentra en: 
+La documentación completa del proyecto se encuentra en: https://github.com/joeldo04/ProgFuncionalYReactiva_TrabajoConsultaB1.wiki.git
