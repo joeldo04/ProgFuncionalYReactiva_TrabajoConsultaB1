@@ -92,7 +92,3 @@ Elaborar una función que calcule el error de cada aproximación mediante:
 Error = |valorEsperado - valorObtenido|
 ```
 
-
-### Documentación
-
-La documentación completa del proyecto se encuentra en: https://github.com/joeldo04/ProgFuncionalYReactiva_TrabajoConsultaB1/wiki/Consulta:
