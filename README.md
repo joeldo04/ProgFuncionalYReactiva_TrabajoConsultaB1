@@ -2,8 +2,9 @@
 ## Trabajo de Consulta: Higher Order Functions
 ---
 
-Docente: Ing. Jorge Jorge A. López Vargas
+Docente: Ing. Jorge A. López Vargas
 Estudiante: Joel Domínguez Ochoa
+Período Académico: Octubre 2025 - Febrero 2026
 
 ---
 ### Objetivos
