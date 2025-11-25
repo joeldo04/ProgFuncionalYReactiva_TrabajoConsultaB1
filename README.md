@@ -1,11 +1,12 @@
 # Programación Funcional y Reactiva
 ## Trabajo de Consulta: Higher Order Functions
 ---
-
-Docente: Ing. Jorge A. López Vargas
-Estudiante: Joel Domínguez Ochoa
-Período Académico: Octubre 2025 - Febrero 2026
-
+Docente:
+Ing. Jorge A. López Vargas
+Estudiante:
+Joel Domínguez Ochoa
+Período Académico:
+Octubre 2025 - Febrero 2026
 ---
 ### Objetivos
 - Aplicar los conocimientos sobre funciones de orden superior
