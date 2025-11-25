@@ -1,5 +1,6 @@
-# Programación Funcional y Reactiva
-## Trabajo de Consulta: Higher Order Functions
+# Trabajo de Consulta: Higher Order Functions
+## Programación Funcional y Reactiva
+
 ---
 
 **Carrera:** Ciencias de la Computación  
