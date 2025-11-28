@@ -4,7 +4,7 @@ def integracion(f: Double => Double, a: Double, b: Double): Double =
 
 // Función para calcular error 
 def calcularError(esperado: Double, obtenido: Double): Double =
-  math.round(math.abs(esperado - obtenido) * 100.0) / 100.0
+  math.abs(esperado - obtenido)
 
 // Ejercicio 1
 val funcion1: Double => Double = x => -math.pow(x, 2) + 8 * x - 12
